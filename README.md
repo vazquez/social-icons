@@ -1,5 +1,7 @@
 # SVG Social Icons
 
+![social icons](https://dl.dropboxusercontent.com/u/43783651/social-icons%402x.png)
+
 This is a collection of social icons in SVG format for you to freely use in your website.
 
 ### Usage
