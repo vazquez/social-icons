@@ -3,7 +3,7 @@
 
 This is a collection of social icons in SVG format for you to freely use in your website.
 
-##### Usage
+#### Usage
 
 I have included the `path` tags with the SVG code of the following icons:
 
